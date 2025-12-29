@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Ozip Template",
-  description: "Ozip Default Template",
+  title: "Web Chat Bot",
+  description: "Chat Bot Application Dataset",
 };
 
 export default function RootLayout({
